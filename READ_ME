@@ -1,7 +1,0 @@
-## READ ME 
-
-Analyzing DC Census Data, Tigerfiles and Shapfiles using overlaysa and spatial joins. 
-The analysis divided income in below vs average and the analysis goes by quadrant and by neighboard.
-
-In the PublicTransportation_Access_DC_per_Income ipynb you can see the code and result there is no need to run it. 
-
