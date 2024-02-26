@@ -15,7 +15,7 @@ All datasets are public avaiable, and websites link are included in the code. Th
 
 
 ## Introduction 
-Comparing access to public transportation from below income vs average income in the DC Area.
+Comparing access to public transportation based on levels of income in the DC Area.
 
 ## Consideration 
 No need to run the file, since the python file is pynb
